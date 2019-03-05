@@ -8,6 +8,7 @@
     "grunt-htmlhint": "^0.9.13"
   },
   "devDependencies": {
+    "eslint": "^5.15.1",
     "grunt": "^1.0.3",
     "grunt-eslint": "^21.0.0"
   },
