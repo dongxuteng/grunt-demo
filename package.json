@@ -1,0 +1,25 @@
+{
+  "name": "grunt-demo",
+  "version": "1.0.0",
+  "description": "less预处理",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "^1.0.3",
+    "grunt-mocha-cli": "^4.0.0",
+    "grunt-mocha-istanbul": "^5.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dongxuteng/grunt-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dongxuteng/grunt-demo/issues"
+  },
+  "homepage": "https://github.com/dongxuteng/grunt-demo#readme"
+}
