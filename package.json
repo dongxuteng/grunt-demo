@@ -8,16 +8,16 @@
   },
   "dependencies": {
     "chai": "^4.2.0",
-    "grunt": "^1.0.3",
     "grunt-contrib-less": "^2.0.0",
     "grunt-mocha-cli": "^4.0.0",
     "grunt-mocha-istanbul": "^5.0.2",
     "istanbul": "^0.4.5"
   },
   "devDependencies": {
-    "mocha": "^6.0.2",
-    "grunt":">=0.4.5",
-    "grunt-mocha": "^0.4.12"
+    "grunt": "^1.0.3",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-mocha": "^0.4.12",
+    "mocha": "^6.0.2"
   },
   "scripts": {
     "test": "mocha"
